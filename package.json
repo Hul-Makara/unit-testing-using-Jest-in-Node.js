@@ -4,7 +4,7 @@
     "supertest": "^7.2.2"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "start": "node server.js",
