@@ -127,3 +127,6 @@ describe('User Service', () => {
         });
     });
 });
+
+// npm test -- --verbose
+// npm test -- user.test.js
